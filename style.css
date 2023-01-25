@@ -5,9 +5,14 @@ h1{
 
 #alma{
     border: 3px;
-    border-style: dashed;   
+    border-style: dashed;
+    border-color: black;   
 }
 
 div{
     text-align: center;
+}
+
+p{
+    text-align: justify;
 }
