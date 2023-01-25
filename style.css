@@ -6,7 +6,9 @@ h1{
 #alma{
     border: 3px;
     border-style: dashed;
-    border-color: black;   
+    border-color: black;  
+    height: 500px;
+    width: 500px;
 }
 
 div{
